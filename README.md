@@ -66,3 +66,30 @@ parkinsons-personalized-ensemble/
    ```bash
    git clone https://github.com/sonnymarmon/parkinsons-personalized-ensemble.git
    cd parkinsons-personalized-ensemble
+
+## Authors
+Sonny Marmon – Data preprocessing, XGBoost, deep learning baseline
+
+Harshith Guduru – Model tuning, condition classification, personalization pipeline
+
+## License
+This repository is licensed under the MIT License. See LICENSE for details.
+
+## Citation
+If you use this project, please cite the source dataset:
+
+Varghese, J. et al. (2024). PADS - Parkinson's Disease Smartwatch dataset. PhysioNet. https://doi.org/10.13026/m0w9-zx22
+Goldberger, A. et al. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation. 101(23), e215–e220.
+
+## Status
+Project is under active development for submission to:
+
+## Academic publication (IEEE JBHI / arXiv)
+
+
+---
+
+### Next Step:
+- Copy the full markdown above and replace your GitHub `README.md` contents
+- Commit with:
+
