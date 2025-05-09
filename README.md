@@ -1,9 +1,10 @@
 # Parkinson’s Personalized Ensemble  
 **Adaptive Deep Learning Models for Parkinson’s Diagnosis using Smartwatch Sensor Data**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![PhysioNet Dataset](https://img.shields.io/badge/Dataset-PADS-blue)](https://physionet.org/content/parkinsons-sensor/1.0.0/)  
-[![Built With](https://img.shields.io/badge/Built%20with-TensorFlow%20%7C%20XGBoost%20%7C%20Sklearn-green)](https://github.com/sonnymarmon/parkinsons-personalized-ensemble)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Dataset: PADS](https://img.shields.io/badge/Dataset-PhysioNet%20PADS-blue)](https://physionet.org/content/parkinsons-sensor/1.0.0/)
+[![Models: CNN+LSTM](https://img.shields.io/badge/Models-CNN%20%7C%20LSTM%20%7C%20XGBoost-green)](#)
+[![Status: Active](https://img.shields.io/badge/Status-Actively%20Developed-brightgreen)](#)
 
 ---
 
